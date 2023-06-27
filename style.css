@@ -137,7 +137,7 @@ a {
 .about-image {
     display: flex;
     justify-content: space-between;
-    flex-direction: column;
+    flex-direction: row;
     max-width: 40%;
 }
 
