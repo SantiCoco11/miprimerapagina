@@ -163,3 +163,8 @@ a {
     margin: 0 auto; /* Centra el contenedor horizontalmente en la página */
     box-sizing: border-box; /* Asegura que el ancho y alto incluyan el borde y el padding */
 }
+
+.greeting {
+    text-align: center;
+}
+
